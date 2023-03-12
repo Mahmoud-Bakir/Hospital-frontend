@@ -1,0 +1,9 @@
+:root{
+    --background: dodgerblue;;
+    --color: dodgerblue;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: var(--background);
+}
